@@ -1,6 +1,8 @@
 <div align="center">
   <a href="#">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brayan-guimaraes&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&hide_border=true" align="center"/>
+  </a>
+  <a href="#">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayan-guimaraes&layout=compact&langs_count=6&theme=github_dark_dimmed&hide_border=true" align="center"/>
   </a>
 </div>
