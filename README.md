@@ -8,28 +8,28 @@
 <details>
   <summary>🇧🇷</summary>
   
-  ### 👋 Oi, eu sou Brayan e sou apaixonado por programação, especialmente pela linguagem PHP. Desde jovem, eu me encantei com a habilidade de transformar linhas de código em algo real e funcional.
+  ### 👋 Oi! Eu sou o Brayan, e desde cedo a programação faz parte da minha vida. Sempre achei incrível como algumas linhas de código podem virar algo útil e real.
   
-  Com anos de experiência, me tornei um especialista no mundo do desenvolvimento web com PHP. Eu adoro criar sistemas dinâmicos e escaláveis usando PHP e o poderoso banco de dados MySQL. Essa combinação me permite construir aplicativos web robustos e eficientes.
+  Com o tempo, fui me aprofundando no desenvolvimento web, especialmente com PHP. Gosto de criar aplicações que realmente funcionam para as pessoas — sistemas que sejam simples, escaláveis e que façam sentido no dia a dia.
+
+Trabalho muito com PHP, MySQL e outras tecnologias que ajudam a tirar ideias do papel, como JavaScript, HTML, CSS e frameworks modernos. Sempre que posso, busco aprender mais, melhorar meu código e acompanhar o que está rolando de novo no mundo do desenvolvimento.
+
+Programar, pra mim, é mais do que escrever código. É sobre resolver problemas, testar possibilidades e criar experiências melhores para quem está do outro lado da tela.
   
-  Quando estou codificando em PHP, sinto que estou criando algo mágico. É incrível como eu posso transformar uma ideia abstrata em uma aplicação funcional que as pessoas podem usar e se beneficiar. Minha paixão por PHP me motiva a aprender constantemente e me manter atualizado com as melhores práticas e tendências do mercado.
-  
-  Eu acredito que o PHP tem o potencial de mudar o mundo da web, e estou determinado a fazer a minha parte nessa jornada. Quero criar soluções inovadoras que tornem a experiência do usuário mais fluida e agradável.
-  
-  #### Se você tem um projeto em mente ou apenas quer saber mais sobre como o PHP pode impulsionar seus negócios, eu adoraria compartilhar meu conhecimento e trabalhar com você. Vamos transformar suas ideias em realidade usando a mágica do PHP!
+  #### Se quiser trocar ideias ou trabalhar junto em algo legal, é só chamar!
 </details>
 <details open>
   <summary>🇬🇧</summary>
 
-  ### 👋 Hi, I'm Brayan and I'm passionate about programming, especially the PHP language. Since I was young, I've been captivated by the ability to turn lines of code into something real and functional.
+  ### 👋 Hey! I'm Brayan, and programming has been part of my life since I was young. I've always found it amazing how a few lines of code can turn into something real and useful.
   
-  With years of experience, I've become an expert in the world of web development with PHP. I love creating dynamic and scalable systems using PHP and the powerful MySQL database. This combination allows me to build robust and efficient web applications.
+  Over time, I dove deeper into web development, especially with PHP. I enjoy building applications that actually work for people — systems that are simple, scalable, and make sense in everyday use.
+
+I work a lot with PHP, MySQL, and other tools that help bring ideas to life, like JavaScript, HTML, CSS, and modern frameworks. I'm always looking to learn more, write better code, and stay up to date with what’s happening in the dev world.
+
+To me, programming is more than just writing code. It’s about solving problems, testing ideas, and creating better experiences for the people on the other side of the screen.
   
-  When I'm coding in PHP, I feel like I'm creating something magical. It's incredible how I can transform an abstract idea into a functional application that people can use and benefit from. My passion for PHP motivates me to continuously learn and stay updated with the best practices and trends in the industry.
-  
-  I believe that PHP has the potential to change the web world, and I'm determined to do my part in this journey. I want to create innovative solutions that make the user experience more seamless and enjoyable.
-  
-  #### If you have a project in mind or simply want to learn more about how PHP can boost your business, I would love to share my knowledge and work with you. Let's turn your ideas into reality using the magic of PHP!
+  #### If you want to connect or work on something cool together, feel free to reach out!
 </details>
 
 ---
