@@ -7,29 +7,73 @@
 <br>
 <details>
   <summary>🇧🇷</summary>
-  
-  ### 👋 Oi! Eu sou o Brayan, e desde cedo a programação faz parte da minha vida. Sempre achei incrível como algumas linhas de código podem virar algo útil e real.
-  
-  Com o tempo, fui me aprofundando no desenvolvimento web, especialmente com PHP. Gosto de criar aplicações que realmente funcionam para as pessoas — sistemas que sejam simples, escaláveis e que façam sentido no dia a dia.
 
-Trabalho muito com PHP, MySQL e outras tecnologias que ajudam a tirar ideias do papel, como JavaScript, HTML, CSS e frameworks modernos. Sempre que posso, busco aprender mais, melhorar meu código e acompanhar o que está rolando de novo no mundo do desenvolvimento.
+  ### Olá, eu sou o Brayan Guimarães! 👋
 
-Programar, pra mim, é mais do que escrever código. É sobre resolver problemas, testar possibilidades e criar experiências melhores para quem está do outro lado da tela.
-  
-  #### Se quiser trocar ideias ou trabalhar junto em algo legal, é só chamar!
+  Especialista em Desenvolvimento Full-Stack, apaixonado por engenharia de software, automações eficientes e arquitetura de sistemas. Atualmente cursando Análise e Desenvolvimento de Sistemas e integrando inteligência artificial e análise de dados às minhas soluções de software.
+
+  ---
+
+  ### 🚀 Sobre mim
+
+  - Desenvolvedor autodidata desde os 13 anos, focado em resolver problemas reais de negócio.
+  - Experiência recente no desenvolvimento completo de um Sistema de Gerenciamento Editorial utilizando Laravel e infraestrutura moderna.
+  - Certificado Microsoft Azure AI Fundamentals (AI-900).
+
+  ---
+
+  ### 🛠️ Tecnologias e ferramentas
+
+  | Categoria | Tecnologias dominadas / principais | Outros conhecimentos / familiares |
+  | :--- | :--- | :--- |
+  | **Backend** | PHP (Laravel), Python, Node.js | Java, C#, C++, C, Delphi, VB .NET |
+  | **Frontend** | HTML5, CSS3, JavaScript, TypeScript, Tailwind CSS, Bootstrap | React, Vue.js, Alpine.js, jQuery |
+  | **Databases** | MySQL, PostgreSQL | SQLite, MariaDB, Firebird |
+  | **DevOps & Cloud** | Git, GitHub, Nginx, Apache | Docker, CI/CD, Microsoft Azure, AWS |
+
+  ---
+
+  ### 📊 Certificações em destaque
+
+  - **AI-900:** Fundamentos de IA no Azure (Microsoft e Escola Virtual Bradesco)
+  - **Lean Seis Sigma White Belt:** Otimização de processos e melhoria contínua (FM2S)
+  - **Soluções de IA no GitHub** (Escola Virtual Bradesco)
 </details>
+
 <details open>
   <summary>🇬🇧</summary>
 
-  ### 👋 Hey! I'm Brayan, and programming has been part of my life since I was young. I've always found it amazing how a few lines of code can turn into something real and useful.
-  
-  Over time, I dove deeper into web development, especially with PHP. I enjoy building applications that actually work for people — systems that are simple, scalable, and make sense in everyday use.
+  ### Hi there, I'm Brayan Guimarães! 👋
 
-I work a lot with PHP, MySQL, and other tools that help bring ideas to life, like JavaScript, HTML, CSS, and modern frameworks. I'm always looking to learn more, write better code, and stay up to date with what’s happening in the dev world.
+  Full-Stack Developer passionate about software engineering, efficient automations, and systems architecture. Currently studying Systems Analysis and Development, integrating AI and data analysis into software solutions.
 
-To me, programming is more than just writing code. It’s about solving problems, testing ideas, and creating better experiences for the people on the other side of the screen.
-  
-  #### If you want to connect or work on something cool together, feel free to reach out!
+  ---
+
+  ### 🚀 About me
+
+  - Self-taught developer since age 13, focused on solving real business problems.
+  - Recent experience developing an entire Editorial Management System using Laravel from scratch.
+  - Certified in Azure AI Fundamentals (AI-900).
+
+  ---
+
+  ### 🛠️ Technologies and tools
+
+  | Category | Mastered technologies / main | Other acquaintances / familiar |
+  | :--- | :--- | :--- |
+  | **Backend** | PHP (Laravel), Python, Node.js | Java, C#, C++, C, Delphi, VB .NET |
+  | **Frontend** | HTML5, CSS3, JavaScript, TypeScript, Tailwind CSS, Bootstrap | React, Vue.js, Alpine.js, jQuery |
+  | **Databases** | MySQL, PostgreSQL | SQLite, MariaDB, Firebird |
+  | **DevOps & Cloud** | Git, GitHub, Nginx, Apache | Docker, CI/CD, Microsoft Azure, AWS |
+
+  ---
+
+  ### 📊 Featured certifications
+
+  - **AI-900:** Fundamentos de IA no Azure (Microsoft and Escola Virtual Bradesco)
+  - **Lean Seis Sigma White Belt:** Otimização de processos e melhoria contínua (FM2S)
+  - **Soluções de IA no GitHub** (Escola Virtual Bradesco)
+
 </details>
 
 ---
